@@ -1,3 +1,3 @@
-# webhook-demo
+# k8s-AdmissionWebhook-demo
 
-fork from https://github.com/banzaicloud/admission-webhook-example and https://github.com/morvencao/kube-mutating-webhook-tutorial
+demo使用参考：https://cloud.tencent.com/developer/article/1445760
